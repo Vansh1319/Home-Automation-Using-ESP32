@@ -19,7 +19,14 @@ It integrates with **Arduino IoT Cloud**, so devices can be controlled **both ma
 - 4-channel (or 8-channel) relay module  
 - 4 tactile push buttons (for manual control)  
 - Jumper wires & breadboard  
-- WiFi connection  
+- WiFi connection
+  
+---  
+
+## 📐 Circuit Diagram
+
+The complete circuit diagram for this project is shown below:
+![Circuit Diagram](ESP32-home-automation-circuit-diagram.jpg)
 
 ---
 
