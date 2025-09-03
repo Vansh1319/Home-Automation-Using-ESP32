@@ -58,7 +58,7 @@ The complete circuit diagram for this project is shown below:
 3. Download the **Secret Key PDF**.  
 4. Copy your **DEVICE_ID** and **SECRET_KEY** into the code:  
    ```cpp
-   const char DEVICE_LOGIN_NAME[]  = "YOUR_DEVICE_ID";   //   🔹 Secret Key From Arduino Cloud
-   const char DEVICE_KEY[]         = "YOUR_SECRET_KEY";  //   🔹 Secret Key From Arduino Cloud
+   const char DEVICE_LOGIN_NAME[]  = "YOUR_DEVICE_ID";   //   🔹 Device_Id From Arduino Cloud
+   const char DEVICE_KEY[]         = "YOUR_SECRET_KEY";  //   🔹 Secret_Key From Arduino Cloud
    const char SSID[]               = "YOUR_WIFI_SSID";   //   🔹 Enter your WiFi name
    const char PASS[]               = "YOUR_WIFI_PASSWORD"; // 🔹 Enter your WiFi password
